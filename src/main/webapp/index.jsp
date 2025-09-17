@@ -1,5 +1,3 @@
-HI this is my new website
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
